@@ -5,4 +5,4 @@ This folder contains all the work completed on Day 1 of the Biometric Attendance
 ## Contents
 - 3D Design files
 - ESP32 Code
--Marathon day-1 work summary
+- Marathon day-1 work summary
